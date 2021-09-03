@@ -12,15 +12,15 @@ So our physicians and patients get to enjoy both medical education and technolog
 
 ## 3D Printing
 We purchased the best selling 3D printer from Amazon (Creality Ender V3) and printed out models from thingiverse (https://www.thingiverse.com/) where 
-numerous 3D printing models are free to download. During the two month trails, challenges about maintence came one after another, but got solved too. We have summarized in the folder of 
+numerous 3D printing models are free to download. Within the two months starting from scratch, challenges about maintence came one after another, but got solved eventually. We have summarized in the folder of 
 "3D-printing". For this particular challenge, we printed and assembled a linear accelrator (radiation therapy machine - https://www.thingiverse.com/thing:1804228).
 
 ## AR APP
 We then wrote an IOS based APP using ARkit to track the model/parts and impose text and images on it. We followed the ARkit image tracking tutorial on Youtube. 
 Videos of the APP can be found in the folder of "AR".
 
-## Brouchure
-We made a brouchure too. And yes the motivation comes from three most important people to me: my parents and my son, who taught me to stay healthy, strong, happy and kind. 
+## Brochure
+We made a brochure too. And yes the motivation comes from three most important people to me: my parents and my son, who taught me to stay healthy, strong, happy and kind. 
 I love you!
 
 ## Acknowledgement
