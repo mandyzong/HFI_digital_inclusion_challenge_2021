@@ -15,15 +15,18 @@ We purchased the best selling 3D printer from Amazon (Creality Ender V3) and pri
 numerous 3D printing models are free to download. Within the two months starting from scratch, challenges about maintence came one after another, but got solved eventually. We have summarized in the folder of 
 "3D-printing". For this particular challenge, we printed and assembled a linear accelrator (radiation therapy machine - https://www.thingiverse.com/thing:1804228).
 
+Slicing software: Ultimaker Cura.\
+Photo Editing APP: Photoleap.
+
 ## AR APP
 We then wrote an IOS based APP using ARkit to track the model/parts and impose text and images on it. We followed the ARkit image tracking tutorial on Youtube. 
 Videos of the APP can be found in the folder of "AR".
 
 ## Brochure
 We made a brochure too. And yes the motivation comes from three most important people to me: my parents and my son, who taught me to stay healthy, strong, happy and kind. 
-I love you!
+I love you! Brochure making APP: Canva.
 
 ## Acknowledgement
-Dr. Weiwei Zong - 3D printing and APP writing
-Dr. Simeng Zhu - medical content building
+Dr. Weiwei Zong - 3D printing and APP writing\
+Dr. Simeng Zhu - medical content building\
 Dr. Ning Wen - Idea and financial support
