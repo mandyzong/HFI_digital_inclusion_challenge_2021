@@ -24,7 +24,9 @@ Videos of the APP can be found in the folder of "AR".
 
 ## Brochure
 We made a brochure too. And yes the motivation comes from three most important people to me: my parents and my son, who taught me to stay healthy, strong, happy and kind. 
-I love you! Brochure making APP: Canva.
+I love you!
+
+Brochure making APP: Canva.
 
 ## Acknowledgement
 Dr. Weiwei Zong - 3D printing and APP writing\
